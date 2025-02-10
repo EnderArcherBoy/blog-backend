@@ -41,7 +41,7 @@ npx prisma migrate dev
 
 ### Authentication
 - `POST /api/auth/login` - User login
-- `POST /api/auth/register` - User registration
+- `POST /api/auth/webhook` - User registration
 - `POST /api/auth/logout` - User logout
 
 ### Users (Admin only)
